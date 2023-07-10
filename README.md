@@ -21,7 +21,8 @@
 - `python mahdi.py`
 - # Auto Comment 
 - `python comment.py`
-
+- # GROUP EXTRACT
+- `python group.py`
 # PROVE
 ![Screenshot (328)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/2c15245c-aeee-47da-a4c1-6a776422f6d8)
 
