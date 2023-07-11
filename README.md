@@ -23,6 +23,8 @@
 - `python comment.py`
 - # GROUP EXTRACT
 - `python group.py`
+- # Auto Group Post
+- `python group_post.py`
 # PROVE
 ![Untitled Project (5)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/3d0f1963-6d60-4c07-9aeb-50800bd53edd)
 
