@@ -17,6 +17,7 @@
 - `pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/FB-BOOT`
 - `cd FB-BOOT`
+- `python messages.py`
 - # Messages Boot
 - `python mahdi.py`
 - # Auto Comment 
@@ -26,6 +27,9 @@
 - # Auto Group Post
 - `python group_post.py`
 # PROVE
+
+![Screenshot (485)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/d9d10743-b2dd-4dd7-857e-a3354296bdb2)
+
 ![Untitled Project (5)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/3d0f1963-6d60-4c07-9aeb-50800bd53edd)
 
 ![Screenshot (328)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/2c15245c-aeee-47da-a4c1-6a776422f6d8)
