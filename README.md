@@ -42,3 +42,11 @@
 ![Screenshot (415)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/5a22e0e2-cfdf-4782-a37c-31a17d9f3956)
 
 
+
+- # Auto Group Post Deleter 
+- `python g_p_delete.py`
+
+  # PROVE
+  
+![Untitled Project (7)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/f27b43ab-f087-4645-ab7b-c513aa49dbde)
+
