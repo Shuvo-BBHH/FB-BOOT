@@ -14,7 +14,7 @@
 # MAIN CAMMANDS
 
 - `rm -rf FB-BOOT`
-- `pip install mahdix`
+- `pip uninstall -y mahdix && pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/FB-BOOT`
 - `cd FB-BOOT`
 - `python mahdi.py`
