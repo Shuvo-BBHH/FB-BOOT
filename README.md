@@ -32,6 +32,11 @@
 
 - # Auto Group Post Deleter 
 - `python g_p_delete.py`
+
+- # Get all page uid from you page
+- `python get_all_page_id.py`
+
+- 
 # PROVE
 
 ![Screenshot (485)](https://github.com/Shuvo-BBHH/FB-BOOT/assets/98658558/d9d10743-b2dd-4dd7-857e-a3354296bdb2)
