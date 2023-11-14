@@ -33,7 +33,7 @@
 - # Auto Group Post Deleter 
 - `python g_p_delete.py`
 
-- # Get all page uid from you page
+- # Get all page uid from your ids
 - `python get_all_page_id.py`
 
 - 
